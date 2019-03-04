@@ -5,6 +5,4 @@
 package.xml
 .vscode/
 .sfdx/
-**/jsconfig.json
-
 **/.eslintrc.json
