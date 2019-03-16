@@ -2,11 +2,6 @@ import { LightningElement,api } from 'lwc';
 
 export default class ChildComp extends LightningElement
  {
-   @api childvalue=20;
+   @api childvalue;
 
- get style()
- {
-   return 'width  ${this.childvalue}%';
  }
-
-}

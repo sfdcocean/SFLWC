@@ -1,0 +1,224 @@
+[
+    [
+        "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app",
+        {
+            "sourcePath": "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552684190045,
+            "changeTime": 1552684190045,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main",
+        {
+            "sourcePath": "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552684190046,
+            "changeTime": 1552684190046,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default",
+        {
+            "sourcePath": "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552684190047,
+            "changeTime": 1552684190047,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552684190047,
+            "changeTime": 1552684190047,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552735104947,
+            "changeTime": 1552735104947,
+            "contentHash": "21f99ad860597c86ace489cb4c7603a481c38e0e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc\\childComp",
+        {
+            "sourcePath": "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc\\childComp",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552736099937,
+            "changeTime": 1552736099937,
+            "contentHash": "38aced2ecc0f57ae2642d2314ca49dae2cca2280",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc\\childComp\\childComp.css",
+        {
+            "sourcePath": "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc\\childComp\\childComp.css",
+            "isDirectory": false,
+            "size": 83,
+            "modifiedTime": 1552736102714,
+            "changeTime": 1552736102714,
+            "contentHash": "a380d8060360dec11dad22c7ce1044e41595782a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc\\childComp\\childComp.html",
+        {
+            "sourcePath": "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc\\childComp\\childComp.html",
+            "isDirectory": false,
+            "size": 275,
+            "modifiedTime": 1552736336690,
+            "changeTime": 1552736336690,
+            "contentHash": "5ae64ac2ab645ffbc23e4bf8120d50dac1fc2d27",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc\\childComp\\childComp.js",
+        {
+            "sourcePath": "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc\\childComp\\childComp.js",
+            "isDirectory": false,
+            "size": 127,
+            "modifiedTime": 1552737745804,
+            "changeTime": 1552737745804,
+            "contentHash": "b6854c4dfc2e3d168a9afa8a523520fde6fe236d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc\\childComp\\childComp.js-meta.xml",
+        {
+            "sourcePath": "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc\\childComp\\childComp.js-meta.xml",
+            "isDirectory": false,
+            "size": 224,
+            "modifiedTime": 1552735104952,
+            "changeTime": 1552735104952,
+            "contentHash": "abc1135957e9add7f33a7563c8458b753a5a9559",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc\\parentComp",
+        {
+            "sourcePath": "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc\\parentComp",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552735043338,
+            "changeTime": 1552735043338,
+            "contentHash": "4ac472c80e4c15407803822e60dcbd5a93dcfb05",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc\\parentComp\\parentComp.html",
+        {
+            "sourcePath": "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc\\parentComp\\parentComp.html",
+            "isDirectory": false,
+            "size": 608,
+            "modifiedTime": 1552738129518,
+            "changeTime": 1552738129518,
+            "contentHash": "f302bc0a6e5a442c80427f96cd85c0286587a908",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc\\parentComp\\parentComp.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc\\parentComp\\parentComp.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 202,
+            "modifiedTime": 1552738208134,
+            "changeTime": 1552738208134,
+            "isWorkspace": false,
+            "contentHash": "fb976dac6a2bfb6e766b816e483b29804bb6350c"
+        }
+    ],
+    [
+        "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc\\parentComp\\parentComp.js-meta.xml",
+        {
+            "sourcePath": "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc\\parentComp\\parentComp.js-meta.xml",
+            "isDirectory": false,
+            "size": 389,
+            "modifiedTime": 1552736906173,
+            "changeTime": 1552736906173,
+            "contentHash": "9826d7dcbb2a40b9d37d0eb3af1374d6b8a2f14d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Priyankar2019\\LWC Program\\lwcEx1",
+        {
+            "sourcePath": "c:\\Priyankar2019\\LWC Program\\lwcEx1",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552736931489,
+            "changeTime": 1552736931489,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
