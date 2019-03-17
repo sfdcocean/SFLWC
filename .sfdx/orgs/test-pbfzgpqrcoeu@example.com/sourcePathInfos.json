@@ -65,13 +65,12 @@
             "sourcePath": "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1552735104947,
-            "changeTime": 1552735104947,
-            "contentHash": "21f99ad860597c86ace489cb4c7603a481c38e0e",
+            "modifiedTime": 1552750054633,
+            "changeTime": 1552750054633,
+            "contentHash": "eea654a417060e4967b00e21d17ae6194663bf47",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -136,15 +135,15 @@
     [
         "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc\\childComp\\childComp.js-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc\\childComp\\childComp.js-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 388,
             "modifiedTime": 1552738296104,
             "changeTime": 1552738296104,
-            "isWorkspace": false,
-            "contentHash": "209884daf14d86a5c86cd0cf4ed01d8ad15f4480"
+            "contentHash": "209884daf14d86a5c86cd0cf4ed01d8ad15f4480",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -167,10 +166,10 @@
         {
             "sourcePath": "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc\\parentComp\\parentComp.html",
             "isDirectory": false,
-            "size": 608,
-            "modifiedTime": 1552738129518,
-            "changeTime": 1552738129518,
-            "contentHash": "f302bc0a6e5a442c80427f96cd85c0286587a908",
+            "size": 746,
+            "modifiedTime": 1552750604110,
+            "changeTime": 1552750604110,
+            "contentHash": "dc805645cc24f191a26d019cc1c836ef5d3b7152",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -218,6 +217,58 @@
             "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc\\publicPropertiesEx1",
+        {
+            "sourcePath": "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc\\publicPropertiesEx1",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552750054640,
+            "changeTime": 1552750054640,
+            "contentHash": "ab9cfdb09156e6d01caa2fab4f61660d75ce1ecf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc\\publicPropertiesEx1\\publicPropertiesEx1.html",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc\\publicPropertiesEx1\\publicPropertiesEx1.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 76,
+            "modifiedTime": 1552750714473,
+            "changeTime": 1552750714473,
+            "contentHash": "81f43958e39752d9f8f22bd0a7181418c4b12c39"
+        }
+    ],
+    [
+        "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc\\publicPropertiesEx1\\publicPropertiesEx1.js",
+        {
+            "sourcePath": "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc\\publicPropertiesEx1\\publicPropertiesEx1.js",
+            "isDirectory": false,
+            "size": 143,
+            "modifiedTime": 1552750168321,
+            "changeTime": 1552750168321,
+            "contentHash": "6906e345a065e197bb42cc178a0439cc0f0c54aa",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc\\publicPropertiesEx1\\publicPropertiesEx1.js-meta.xml",
+        {
+            "sourcePath": "c:\\Priyankar2019\\LWC Program\\lwcEx1\\force-app\\main\\default\\lwc\\publicPropertiesEx1\\publicPropertiesEx1.js-meta.xml",
+            "isDirectory": false,
+            "size": 234,
+            "modifiedTime": 1552750054639,
+            "changeTime": 1552750054639,
+            "contentHash": "fe7e549200f9a25d967610d2b1dedefcbbcca18f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
